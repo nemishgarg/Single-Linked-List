@@ -204,7 +204,7 @@ int length(void)
     return(len);
 }
 
-/*Function to search a element in list*/
+/*Function to search an element in the list*/
 node* search(int item)
 {
     node* loc;
